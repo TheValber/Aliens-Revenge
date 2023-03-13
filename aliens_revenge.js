@@ -1,3 +1,10 @@
+/*
+ * Aliens Revenge
+ * Main 2021 - Juin 2021
+ * Bernier Valentin - Trinh Jean-Pascal
+ */
+
+
 "use strict";
 
 
