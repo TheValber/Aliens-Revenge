@@ -24,13 +24,13 @@ Are you going to succeed and become the hero who saved humanity ?
 You control the triangular ship. It moves automatically but you can change its direction with the directional arrows on the keyboard.
 You have to shoot the aliens represented by squares by pressing space. Depending on the direction of your ship, the missile will have a different effect :
 
-Direction      Damages     Speed/Range     Trajectory
+Direction | Damages | Speed/Range | Trajectory
 
-Right/Left     Low	   Medium	   Tilted
+Right/Left | Low | Medium | Tilted
 
-Up	       Medium	   High	           Straight
+Up | Medium | High | Straight
 
-Down	       High	   Low	           Straight
+Down | High | Low | Straight
 
 In addition, by killing aliens, you can randomly collect one of the following power up :
 - Improve missile damage
@@ -80,13 +80,13 @@ Allez vous réussir et devenir le héro qui a sauvé l'humanité ?
 Vous contrôlez le vaisseau triangulaire. Il se déplace automatiquement mais vous pouvais changer sa direction avec les flèches directionnelles du clavier.
 Vous devez tirer sur les aliens représentés par des carrés en appuyant sur espace. En fonction de la direction de votre vaisseau, le missile aura un effet différent :
 
-Direction	  Dégâts      Vitesse/Portée     Trajectoire
+Direction | Dégâts | Vitesse/Portée | Trajectoire
 
-Droite/Gauche     Faibles     Moyenne	         Inclinée
+Droite/Gauche | Faibles | Moyenne | Inclinée
 
-Haut	          Moyens      Élevée	         Droite
+Haut | Moyens | Élevée | Droite
 
-Bas	          Élevés      Faible	         Droite
+Bas | Élevés | Faible | Droite
 
 De plus, en tuant des aliens, vous pouvez récupérer aléatoirement un des bonus suivant :
 - Améliorer les dégâts des missiles
