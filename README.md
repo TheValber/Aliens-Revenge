@@ -44,7 +44,6 @@ The objective of the game is to survive as long as possible by eliminating waves
 ## The Project
 
 This project was originally developed as a end-year project. The project was much more complete than originally requested by teachers, so we decided to post it here after some tweaking.
-In addition, we will continue the development of this project live on my Twitch channel : Valber.
 
 ## Known Issues
 
@@ -100,7 +99,6 @@ L'objectif du jeu est donc de survivre le plus longtemps en éliminant des vague
 ## Le Projet
 
 Ce projet a été à l'origine développé dans le cadre d'un projet de fin de première année de Licence d'Informatique. Le projet était beaucoup plus complet que demandé à l'origine dans le sujet, nous avons donc décidé de le publier ici après quelques retouches.
-De plus nous allons continuer le développement de ce projet en direct sur ma chaine Twitch : Valber.
 
 ## Problèmes Connus
 
